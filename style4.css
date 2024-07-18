@@ -1,0 +1,53 @@
+body{
+    background-color: #e2d3cc;
+}
+
+p{
+    font-size: 23px;
+}
+.navbar-brand {
+    font-size: 24px; /* Adjust the font size as needed */
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px; /* Adjust the font size as needed */
+}
+
+img{
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+}
+button{
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+}
+#about-me-section button:hover{
+    background-color: #d69d8c;
+}
+
+#projects-section .btn-outline-secondary:hover{
+    background-color: #d69d8c;
+}
+
+.project-card {
+    height: 750px;
+}
+
+.custom-border {
+    border-color: #d69d8c;
+}
+/* Add this class to your Instagram button */
+.black-button {
+    background-color: black !important;
+    color: white !important; /* Set text color to white for better visibility */
+}
+
+/* Add this class to your Linkedin and Github buttons for consistency */
+.custom-btn-black {
+    background-color: black !important;
+    color: white !important; /* Set text color to white for better visibility */
+}
+
+
+
